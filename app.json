@@ -1,5 +1,5 @@
 {
-  "name": "𝐷𝛥𝑅𝛫 𝑄𝑈𝛯𝛯𝛮 𝛭𝐷",
+  "name": "Mr Noman¹⁴¹⁹",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
   "logo": "https://telegra.ph/file/2410f13a9a02224c996af.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "SecktorBot", "Secktor","SecktorMD","theme bot","multi device","baileys","Sam Pandey"],
@@ -8,7 +8,7 @@
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "X-Notiyar"
+      "value": "NOMAN¹⁴¹⁹"
   },
   "ALIVE_MESSAGE": {
     "description": "Alive message for bot",
@@ -37,7 +37,7 @@
    "ANTILINK_VALUES": {
     "description": "Put words for antilink",
      "value": "chat.whatsapp.com,fb.com,instagram.com",
-     "required" :false
+     "required" : "xnxx.com"
     },
      "ANTILINK_ACTION": {
     "description": "Put action for antilink",
@@ -47,12 +47,12 @@
   "LEVEL_UP_MESSAGE": {
     "description": "Fill the value true if you want bot send Level up message in chat.",
      "required" :false,
-     "value": "true"
+     "value": "false"
     },
       "READ_MESSAGE": {
     "description": "Fill the value true if you want bot to read all messages.",
      "required" :false,
-     "value": "true"
+     "value": "false"
     },
    "DISABLE_PM": {
     "description": "Disable bot in pm",
@@ -64,7 +64,7 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "94711928777"
+       "value": "923137696105"
   },
    "SESSION_ID": {
     "description": "Please put your SESSION_ID here,if you don't have visit https://secktorbot.herokuapp.com/session "
@@ -88,12 +88,12 @@
   },
       "AUTO_REACTION": {
     "description": "Reacts emoji to all commands.",
-     "value": "false",
+     "value": "true",
      "required": false 
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "SamPandey001;Secktor",
+     "value": "Mr Noman¹⁴¹⁹;NOMAN¹⁴¹⁹",
      "required": false 
   },
   "heroku": {
