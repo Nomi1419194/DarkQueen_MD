@@ -1,15 +1,15 @@
 {
-               "name": "dark-queen",
+               "name": "Mr Noman¹⁴¹⁹",
                "version": "1.0.5",
-               "description": "Multi device whatsapp bot by X-Notiya.",
+               "description": "Multi device whatsapp bot by NOMAN¹⁴¹⁹.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
    "scripts": {
-                "start": "pm2 start lib/client.js --deep-monitoring --attach --name Dark-Queen",
-                "stop": "pm2 stop Dark-Queen"
+                "start": "pm2 start lib/client.js --deep-monitoring --attach --name Mr Noman¹⁴¹⁹",
+                "stop": "pm2 stop Mr Noman¹⁴¹⁹"
                 },
-               "author": "X-Notiya",
+               "author": "NOMAN¹⁴¹⁹",
               "dependencies": {
                        "@sampandey001/baileys": "latest",
                        "@adiwajshing/keyed-db": "^0.2.4",
